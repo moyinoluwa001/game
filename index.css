@@ -1,0 +1,49 @@
+
+#demo{
+    border: 2px solid black;
+    width: 30px;
+    height: 40px;
+}
+#demo1{
+    border: 2px solid black;
+    width: 30px;
+    height: 40px;
+}
+#fof{
+    border: 2px solid black;
+    width: 30px;
+    height: 40px;
+}
+#dod{
+    border: 2px solid black;
+    width: 30px;
+    height: 40px;
+}
+#pop{
+    border: 2px solid black;
+    width: 30px;
+    height: 40px;
+}
+#olo{
+    border: 2px solid black;
+    width: 30px;
+    height:40px ;
+}
+/* #you{
+    float: left; 
+    width:5% ;
+ position: relative;
+    left: 600px;
+    top: 200px;
+    
+}  
+ */
+ #yo{
+    position: relative;
+    left: 60px;
+    bottom: 227px;
+ }
+#your{
+    text-align: center;
+}
+
